@@ -1,0 +1,4 @@
+Rstart Network adapter
+
+
+systemctl restart NetworkManager
